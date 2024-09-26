@@ -2,8 +2,8 @@
 // this adapted-for-15-466 code is released into the public domain.
 
 #include "PathFont.hpp"
-
 #include <iostream>
+
 
 PathFont::PathFont(uint32_t glyphs_,
 	const float *glyph_widths_,
